@@ -7,11 +7,11 @@ public class factorial {
 
 
 
-		static float number ;
+		static int number ;
 		int i;
 		static int fact=1;
 		
-		static float factorial;
+		static int factorial;
 		static Scanner sc= new Scanner(System.in);
 
 	public static void main(String[] args) {
